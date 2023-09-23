@@ -20,7 +20,7 @@
   "dependencies": {
     "@faker-js/faker": "^7.3.0",
     "@prisma/client": "4.1.1",
-    "apollo-server-core": "^3.10.0",
+    "apollo-server-core": "^3.12.1",
     "apollo-server-express": "^3.10.0",
     "bullmq": "^1.86.10",
     "cors": "^2.8.5",
